@@ -1,2 +1,2 @@
-# web-scraping-emag-dell-notebooks
- web scraping from emag dell notebook information from api
+# web scraping
+ Getting all the DELL notebooks from https://www.emag.hu API and dumping it into results.csv
